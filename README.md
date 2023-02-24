@@ -6,7 +6,7 @@ For a wind turbine, a regulator has two goals:
 To protect the wind turbine against over speed of the turbine that may destroy it,
 To adapt the power delivered to charge a battery or to drive an injector. 
 
-Features:
+Features:  
 Maximum Power Point Tracking (MPPT) with perterb and observe (P&O) algorithm and DC-DC bus
 Battery charging: lead-acid or lithium based batteries.
 
