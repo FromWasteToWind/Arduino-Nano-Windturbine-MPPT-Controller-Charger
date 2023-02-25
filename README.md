@@ -10,7 +10,7 @@ There are many controllers on the market. However they are mostly adapted for so
 
 ## Features:  
 Efficiency:  
-- Maximum Power Point Tracking (MPPT) with perterb and observe (P&O) algorithm through DC-DC converter
+- Maximum Power Point Tracking (MPPT) with variable step perterb and observe (P&O) algorithm through DC-DC converter
 - DC-DC converter allows for low cut-in and lower current losses because the generator voltage can raise higher than the battery voltage.
 
 Battery charging:  
