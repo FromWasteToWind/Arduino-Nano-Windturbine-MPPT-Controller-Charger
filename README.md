@@ -1,4 +1,4 @@
-# Arduino-Nano-Wind-Turbine-MPPT-Regulator
+# Arduino-Nano-Wind-Turbine-MPPT-Controller
 This project explains how to build a windturbine MPPT-controller with battery charging functionality, based on a Arduino Nano or Nano Every.
 The controller can also be be used for direct injection to a grid-tie inverter like the Victron Multiplus II.
 
